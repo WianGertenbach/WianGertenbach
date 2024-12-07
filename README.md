@@ -1,6 +1,4 @@
 # WianGertenbach
-Hi 👋 My name is Wian Gertenbach
-================================
 
 Web Developer | Designer | Engineer
 -----------------------------------
