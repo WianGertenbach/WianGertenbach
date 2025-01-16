@@ -3,11 +3,11 @@
 Web Developer | Designer | Engineer
 -----------------------------------
 
-I am a qualified electrical and electronic engineer currently working as a cyber security specialist. My goal is to solve problems, and the best way I figured I could do that is through system design and development. I'm currently embarking on a journey to learn full stack web development, which I believe will aid me in this endeavor. I run a startup business, RespawnTX, a computer and gaming hardware trading platform.
+I am a qualified electrical and electronic engineer currently working as a cyber security specialist. My goal is to solve problems, and the best way I figured I could do that is through system design and development. I'm currently embarking on a journey to learn full stack web development, which I believe will aid me in this endeavor. I run a startup business, Halflifetech, a computer and gaming hardware trading platform.
 
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [wianpgertenbach@gmail.com](mailto:wianpgertenbach@gmail.com)
-* 🧠  I'm learning Javascript, Ruby on Rails, React and NodeJS
+* 🧠  I'm learning Javascript, Ruby on Rails and React.
 * 🤝  I'm open to collaborating on web app development projects
 
 <a href="https://www.github.com/WianGertenbach" target="_blank" rel="noreferrer"><img
